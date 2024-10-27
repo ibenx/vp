@@ -1,5 +1,37 @@
 {
-
-
-
+	"tap_engine": {
+		"name": "Tap Engine : Game Engine",
+		"desc": "Create your own game on your phone",
+		"url": "tapengine"
+	},
+	"guitar_solo": {
+		"name": "Guitar Solo",
+		"desc": "Play guitar like it should be.. Bending, Tremolo, Slide, Effects and more..",
+		"url": "guitarsolo"
+	},
+	"bass_guitar": {
+		"name": "Bass Guitar",
+		"desc": "Play bass like it should be..",
+		"url": "bassguitar"
+	},
+	"unreal_cello": {
+		"name": "Unreal Cello",
+		"desc": "Play cello like it should be..",
+		"url": "unrealcello"
+	},
+	"unreal_violin": {
+		"name": "Unreal Violin",
+		"desc": "Play violin like it should be..",
+		"url": "violin"
+	},
+	"unreal_viola": {
+		"name": "Unreal Viola",
+		"desc": "Play viola like it should be..",
+		"url": "unrealviola"
+	},
+	"unreal_harmonica": {
+		"name": "Unreal Harmonica",
+		"desc": "Play harmonica like it should be.., use your lips and slide..",
+		"url": "harmonica"
+	}
 }
