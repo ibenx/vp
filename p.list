@@ -2,36 +2,50 @@
 	"tap_engine": {
 		"name": "Tap Engine : Game Engine",
 		"desc": "Create your own game on your phone",
-		"url": "tapengine"
+		"url": "tapengine",
+		"icon_len": 6770,
+		"vid_len": 691307
 	},
 	"guitar_solo": {
 		"name": "Guitar Solo",
 		"desc": "Play guitar like it should be.. Bending, Tremolo, Slide, Effects and more..",
-		"url": "guitarsolo"
+		"url": "guitarsolo",
+		"icon_len": 67376,
+		"vid_len": 696044
 	},
 	"bass_guitar": {
 		"name": "Bass Guitar",
 		"desc": "Play bass like it should be..",
-		"url": "bassguitar"
+		"url": "bassguitar",
+		"icon_len": 29195,
+		"vid_len": 1287108
 	},
 	"unreal_cello": {
 		"name": "Unreal Cello",
 		"desc": "Play cello like it should be..",
-		"url": "unrealcello"
+		"url": "unrealcello",
+		"icon_len": 64872,
+		"vid_len": 664573
 	},
 	"unreal_violin": {
 		"name": "Unreal Violin",
 		"desc": "Play violin like it should be..",
-		"url": "violin"
+		"url": "violin",
+		"icon_len": 58683,
+		"vid_len": 652297
 	},
 	"unreal_viola": {
 		"name": "Unreal Viola",
 		"desc": "Play viola like it should be..",
-		"url": "unrealviola"
+		"url": "unrealviola",
+		"icon_len": 56767,
+		"vid_len": 457666
 	},
 	"unreal_harmonica": {
 		"name": "Unreal Harmonica",
 		"desc": "Play harmonica like it should be.., use your lips and slide..",
-		"url": "harmonica"
+		"url": "harmonica",
+		"icon_len": 17963,
+		"vid_len": 533370
 	}
 }
