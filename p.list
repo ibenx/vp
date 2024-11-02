@@ -23,7 +23,7 @@
 	"unreal_cello": {
 		"name": "Unreal Cello",
 		"desc": "Play cello like it should be..",
-		"url": "unrealcello",
+		"url": "cello",
 		"icon_len": 64872,
 		"vid_len": 664573
 	},
