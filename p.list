@@ -47,5 +47,12 @@
 		"url": "harmoni",
 		"icon_len": 17963,
 		"vid_len": 533370
+	},
+	"recorder_flute": {
+		"name": "Recorder Flute",
+		"desc": "Easy to play and learn recorder flute..",
+		"url": "recorderflute",
+		"icon_len": 29768,
+		"vid_len": 640770
 	}
 }
