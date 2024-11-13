@@ -54,5 +54,12 @@
 		"url": "recorderflute",
 		"icon_len": 29768,
 		"vid_len": 640770
+	},
+	"unreal_contrabass": {
+		"name": "Unreal Contrabass",
+		"desc": "Play Contrabass like it should be..",
+		"url": "contrabass",
+		"icon_len": 48967,
+		"vid_len": 640643
 	}
 }
