@@ -48,6 +48,13 @@
 		"icon_len": 17963,
 		"vid_len": 533370
 	},
+	"unreal_trumpet": {
+		"name": "Unreal Trumpet",
+		"desc": "Easy to play and learn trumpet instrument..",
+		"url": "unrealtrumpet",
+		"icon_len": 15157,
+		"vid_len": 743208
+	},
 	"recorder_flute": {
 		"name": "Recorder Flute",
 		"desc": "Easy to play and learn recorder flute..",
