@@ -13,6 +13,13 @@
 		"icon_len": 67376,
 		"vid_len": 696044
 	},
+	"unreal_banjo": {
+		"name": "Unreal Banjo",
+		"desc": "Play banjo like it should be.. Bending, Hammer on, Pull Off, Slide, Effects and more..",
+		"url": "banjo",
+		"icon_len": 18534,
+		"vid_len": 375286
+	},
 	"bass_guitar": {
 		"name": "Bass Guitar",
 		"desc": "Play bass like it should be..",
